@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\PhysicsShape.h(18,12): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(32,42): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(34,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(68,41): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(68,28): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(90,88): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(91,43): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(92,44): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(116,84): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(116,49): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(119,46): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(119,33): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(235,108): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(235,73): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(238,70): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(238,57): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(264,74): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(265,73): warning C4244: '+=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(267,67): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(268,73): warning C4244: '+=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\main.cpp(270,67): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  Circles.vcxproj -> C:\Users\mique\OneDrive - UPV\.Importantes\.Code\VS\Circles\x64\Debug\Circles.exe
