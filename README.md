@@ -1,6 +1,13 @@
 > Orbit simulator made in C++ with SMFL.
+
 # Showcase Video
-[![YouTube Video](https://img.youtube.com/vi/UPl4bBSgKtM/0.jpg)](https://www.youtube.com/watch?v=UPl4bBSgKtM)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=UPl4bBSgKtM">
+    <img src="https://img.youtube.com/vi/UPl4bBSgKtM/0.jpg" alt="YouTube Video">
+  </a>
+  <br>
+  <em>Click the image to watch the video</em>
+</div>
 
 # Usage
 Easy to use, load solution in Visual Studio (NOT IN Visual Studio Code). After making sure all the imported libraries are installed just press run.
