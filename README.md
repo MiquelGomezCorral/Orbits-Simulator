@@ -1,4 +1,6 @@
 > Orbit simulator made in C++ with SMFL.
+# Showcase Video
+[![YouTube Video](https://img.youtube.com/vi/UPl4bBSgKtM/0.jpg)](https://www.youtube.com/watch?v=UPl4bBSgKtM)
 
 # Usage
 Easy to use, load solution in Visual Studio (NOT IN Visual Studio Code). After making sure all the imported libraries are installed just press run.
