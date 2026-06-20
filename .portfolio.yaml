@@ -1,0 +1,28 @@
+title:
+  en: Orbits Simulator
+  es: Simulador de Órbitas
+finished: finished
+descriptionShort:
+  en: The Three-Body Problem, a good Netflix series, shows what can happen in the universe when physics are involved with large objects (planets and stars). Here, I simulate the interaction of some objects using simple Newton's equations implemented in C++. We can enable collisions and make the objects behave like bouncing balls. Super fun.
+  es: El problema de los tres cuerpos, una buena serie de Netflix, muestra lo que puede suceder en el universo cuando la física interviene con objetos grandes (planetas y estrellas). Aquí, simulo la interacción de algunos objetos utilizando las ecuaciones de Newton implementadas en C++. Podemos habilitar colisiones y hacer que los objetos se comporten como pelotas que rebotan. Súper divertido.
+descriptionLong:
+  en: |
+    The Three-Body Problem, a good Netflix series, shows what can happen in the universe when physics are involved with large objects (planets and stars). Here, I simulate the interaction of some objects using simple Newton's equations implemented in C++. We can enable collisions and make the objects behave like bouncing balls. Super fun.
+  es: |
+    El problema de los tres cuerpos, una buena serie de Netflix, muestra lo que puede suceder en el universo cuando la física interviene con objetos grandes (planetas y estrellas). Aquí, simulo la interacción de algunos objetos utilizando las ecuaciones de Newton implementadas en C++. Podemos habilitar colisiones y hacer que los objetos se comporten como pelotas que rebotan. Súper divertido.
+technologies: [c++]
+tags: [other]
+logo: readme_images/Orbits (1).webp
+screenShoots:
+  - readme_images/Orbits (1).webp
+  - readme_images/Orbits (2).webp
+  - readme_images/Orbits (3).webp
+  - readme_images/Orbits (4).webp
+  - readme_images/Orbits (5).webp
+  - readme_images/Orbits (6).webp
+  - readme_images/Orbits (7).webp
+  - readme_images/Orbits (8).webp
+youtube: UPl4bBSgKtM
+slug: Orbits-Simulator
+order: 42
+featured: false
