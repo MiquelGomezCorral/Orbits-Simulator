@@ -11,7 +11,7 @@ descriptionLong:
   es: |
     El problema de los tres cuerpos, una buena serie de Netflix, muestra lo que puede suceder en el universo cuando la física interviene con objetos grandes (planetas y estrellas). Aquí, simulo la interacción de algunos objetos utilizando las ecuaciones de Newton implementadas en C++. Podemos habilitar colisiones y hacer que los objetos se comporten como pelotas que rebotan. Súper divertido.
 technologies: [c++]
-tags: [other]
+tags: [personal]
 logo: readme_images/Orbits (1).webp
 screenShoots:
   - readme_images/Orbits (1).webp
