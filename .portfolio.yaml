@@ -26,6 +26,9 @@ youtube: UPl4bBSgKtM
 keywords:
   en: [orbital mechanics, N-body simulation, three body problem, Newton gravity, planetary motion, celestial mechanics, bouncing collision, physics sandbox, space simulation, gravitational pull]
   es: [mecánica orbital, simulación N-cuerpos, problema de los tres cuerpos, gravedad de Newton, movimiento planetario, mecánica celeste, colisión elástica, sandbox físico, simulación espacial, atracción gravitatoria]
+date:
+  en: Feb 2025
+  es: Feb 2025
 slug: Orbits-Simulator
 order: 42
 featured: false
