@@ -30,9 +30,13 @@ Easy to use, load solution in Visual Studio (NOT IN Visual Studio Code). After m
 ## Gallery
 
 <p align="center">
-  <img src="readme_images/Orbits.gif" width="48%" />
-  <img src="readme_images/Orbits%20(1)_169.webp" width="48%" />
-  <img src="readme_images/Orbits%20(2)_169.webp" width="48%" />
-  <img src="readme_images/Orbits%20(3)_169.webp" width="48%" />
+  <img src="readme_images/Orbits%20(1)_169.webp" alt="Orbits (1)" width="48%" />
+  <img src="readme_images/Orbits%20(2)_169.webp" alt="Orbits (2)" width="48%" />
+  <img src="readme_images/Orbits%20(3)_169.webp" alt="Orbits (3)" width="48%" />
+  <img src="readme_images/Orbits%20(4)_169.webp" alt="Orbits (4)" width="48%" />
+  <img src="readme_images/Orbits%20(5)_169.webp" alt="Orbits (5)" width="48%" />
+  <img src="readme_images/Orbits%20(6)_169.webp" alt="Orbits (6)" width="48%" />
+  <img src="readme_images/Orbits%20(7)_169.webp" alt="Orbits (7)" width="48%" />
+  <img src="readme_images/Orbits%20(8)_169.webp" alt="Orbits (8)" width="48%" />
 </p>
 <!-- portfolio-gallery:end -->
